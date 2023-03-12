@@ -30,3 +30,4 @@
 #
 #以上所有教程 不会去群里问我 (沐雨酆臻 QQ:1755711948)
 #
+内置的是[https://github.com/moparisthebest/static-curl]的 curl下载命令库
